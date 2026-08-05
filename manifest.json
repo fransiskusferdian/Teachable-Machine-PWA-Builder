@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "PatternPop",
-  "short_name": "PatternPop",
+  "name": "DCS TM Builder",
+  "short_name": "TMBuilder",
   "description": "Train it. Snap it. Guess it. A tiny AI pattern recognizer you customize yourself.",
   "start_url": "./",
   "scope": "./",
